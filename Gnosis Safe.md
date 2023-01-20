@@ -1,0 +1,3 @@
+Apparently they are moving and rebranding from [Gnosis Website](https://gnosis-safe.io/app) to [Safe Website](https://app.safe.global).
+
+It costs quite a lot of my existing ETH to create such a safe, so I want to make sure that I do it right the first time: One [[wallet]] per device, and altogether 2/3 necessary signatures for a transaction. A little unsure if any of that could be changed later and if that would cost money again.

@@ -17,11 +17,12 @@ kanban-plugin: basic
 - [ ] Check out [[Reclaim AI]]
 - [ ] Explain how I use Obsidian
 - [ ] [[Explain how I plan content creation with Obsidian Projects]]
+- [ ] Add [[Budgeting]] capabilities
 
 
 ## 🛠️  Working
 
-- [ ] Add [[Budgeting]] capabilities
+- [ ] [[Finish Motivation Blog Post]]
 
 
 ## 🧽 Finishing

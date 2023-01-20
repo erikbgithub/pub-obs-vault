@@ -10,7 +10,7 @@
           {
             "id": "d9f865ba206d6077",
             "type": "tabs",
-            "dimension": 53.05232558139535,
+            "dimension": 69.32573599240267,
             "children": [
               {
                 "id": "03fdd2d6d3ab7cac",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journal/2023-01-19.md",
+                    "file": "Journal/2023-01-20.md",
                     "mode": "source",
                     "source": false
                   }
@@ -29,7 +29,7 @@
           {
             "id": "25452112b94af4c3",
             "type": "tabs",
-            "dimension": 46.94767441860465,
+            "dimension": 30.67426400759734,
             "children": [
               {
                 "id": "2bfc103000b62948",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-19.md",
+                "file": "Journal/2023-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-19.md",
+                "file": "Journal/2023-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-19.md"
+                "file": "Journal/2023-01-20.md"
               }
             }
           }
@@ -169,20 +169,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "03fdd2d6d3ab7cac",
+  "active": "b6ccefe2615b9ce3",
   "lastOpenFiles": [
-    "Explain how I plan content creation with Obsidian Projects.md",
+    "Finish Motivation Blog Post.md",
     "Journal/2023-01-19.md",
-    "TODO.md",
-    "Build Habit tracker.md",
     "Budgeting.md",
+    "Gnosis Safe.md",
+    "TODO.md",
+    "Explain how I plan content creation with Obsidian Projects.md",
+    "Build Habit tracker.md",
     "Journaling.md",
     "Templates/Daily Template.md",
-    "Journal/2023-01-18.md",
-    "README.md",
-    "Ethereum.md"
+    "Journal/2023-01-18.md"
   ]
 }
