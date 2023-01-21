@@ -18,7 +18,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journal/2023-01-20.md",
+                    "file": "Journal/2023-01-21.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6785e875e434ad16",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Finish Motivation Blog Post.md",
                     "mode": "source",
                     "source": false
                   }
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-20.md",
+                "file": "Journal/2023-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-20.md",
+                "file": "Journal/2023-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +163,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-20.md"
+                "file": "Journal/2023-01-21.md"
               }
+            }
+          },
+          {
+            "id": "06d1d6bd1dbe3ab3",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +194,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b6ccefe2615b9ce3",
+  "active": "03fdd2d6d3ab7cac",
   "lastOpenFiles": [
+    "Journal/2023-01-20.md",
+    "Journal/2023-01-21.md",
     "Finish Motivation Blog Post.md",
     "Journal/2023-01-19.md",
     "Budgeting.md",
@@ -182,8 +205,6 @@
     "TODO.md",
     "Explain how I plan content creation with Obsidian Projects.md",
     "Build Habit tracker.md",
-    "Journaling.md",
-    "Templates/Daily Template.md",
-    "Journal/2023-01-18.md"
+    "Journaling.md"
   ]
 }

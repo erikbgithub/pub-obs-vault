@@ -4,5 +4,7 @@
   "templater-obsidian",
   "dataview",
   "obsidian-tasks-plugin",
-  "obsidian-projects"
+  "obsidian-projects",
+  "obsidian-minimal-settings",
+  "obsidian-checklist-plugin"
 ]
