@@ -2,8 +2,8 @@
 
 #todo/blogging
  - [x] review text ✅ 2023-01-21
- - [ ] draw background image
- - [ ] publish
+ - [x] draw background image
+ - [x] publish
 
 
 # Image Ideas
@@ -20,3 +20,7 @@ https://unsplash.com/photos/Zyx1bK9mqmA
 [Anna Samoylova](https://unsplash.com/@hagalnaud)
 https://unsplash.com/photos/w55SpMmoPgE
 ![[Pasted image 20230121101617.png]]
+
+Created a vector image based on the last one
+https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/65126267786425201464848081902272151971207919607553588261277304080648881832936/
+![[PullTogether.png]]

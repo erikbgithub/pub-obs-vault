@@ -22,17 +22,17 @@ kanban-plugin: basic
 
 ## 🛠️  Working
 
-- [ ] [[Finish Motivation Blog Post]]
 
 
 ## 🧽 Finishing
 
-- [ ] Add [[Journaling]]
 
 
 ## ✅ Done
 
 **Complete**
+- [x] Add [[Journaling]]
+- [x] [[Finish Motivation Blog Post]]
 
 
 
