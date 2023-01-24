@@ -22,6 +22,7 @@ kanban-plugin: basic
 
 ## 🛠️  Working
 
+- [ ] [[Mouses Maze Short Story]]
 
 
 ## 🧽 Finishing
