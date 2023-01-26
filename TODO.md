@@ -12,7 +12,6 @@ kanban-plugin: basic
 - [ ] Build example [[DAO]]
 - [ ] Figure out [[Shortform]]
 - [ ] Figure out [[Albert Launcher]]
-- [ ] ToRead: Suse Zero Trust Email
 - [ ] [[Build Habit tracker]]
 - [ ] Check out [[Reclaim AI]]
 - [ ] Explain how I use Obsidian
@@ -23,6 +22,7 @@ kanban-plugin: basic
 ## 🛠️  Working
 
 - [ ] [[Mouses Maze Short Story]]
+- [ ] [[Finish Separation of Concerns Blog Post]]
 
 
 ## 🧽 Finishing
@@ -33,6 +33,7 @@ kanban-plugin: basic
 
 **Complete**
 - [x] Add [[Journaling]]
+- [x] ToRead: Suse Zero Trust Email
 - [x] [[Finish Motivation Blog Post]]
 
 
