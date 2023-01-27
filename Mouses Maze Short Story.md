@@ -9,3 +9,18 @@ The leaders can see that slowly but surely the quality of the people they filter
 
 Mouse is a blind non-binary teenager who grows up in a world where only the people can survive that are strong enough to take what they need. They are laughed off and excluded by their peers as uncapable of survival. They spend their time begging for food. By coincidence and out of being bored, they find a maze at a farmers market that was designed for children. And as there is candy, ie food, as a reward, Mouse tries it. To the surprise of everybody Mouse solves the maze very quickly, having learned to trust their sense of touch and their trained ability to create maps in their memory. People cheer them on for the first time in their life. From this day on, Mouse is not a beggar any more. Mouse is a Maze Wizard. Their new purpose is to find mazes and solve them quicker than anybody else!
 Until one day, they hear about the government doing huge Maze tournaments and that you can even get rich if you win one of these...
+
+# Structure
+
+## Scene 1: market place
+ - being bullied by other teenagers 
+ - older woman comes along and sends bullies away
+ - small talk
+ - Mouse learns about The Maze contest
+## Scene 2: locker room
+ - Mouse talks to different people to learn about the contest, most don't want to talk
+ - one boy is very talkative, though, who wants to make friends quickly and asks lots of strange questions
+ - they split up on the contest start
+## Scene 3: Maze loop
+ - Mouse follows one wall, while building a map of paths he has walked; a strategy that always leads to the end of a solvable maze...
+ - besides when the wall is inside of a loop, then you reach back to your starting point without new options

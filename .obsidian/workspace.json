@@ -10,7 +10,7 @@
           {
             "id": "d9f865ba206d6077",
             "type": "tabs",
-            "dimension": 62.20322886989553,
+            "dimension": 56.0303893637227,
             "children": [
               {
                 "id": "03fdd2d6d3ab7cac",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journal/2023-01-26.md",
+                    "file": "Mouses Maze Short Story.md",
                     "mode": "source",
                     "source": false
                   }
@@ -47,31 +47,7 @@
                     "source": false
                   }
                 }
-              }
-            ]
-          },
-          {
-            "id": "25452112b94af4c3",
-            "type": "tabs",
-            "dimension": 18.89838556505223,
-            "children": [
-              {
-                "id": "2bfc103000b62948",
-                "type": "leaf",
-                "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "TODO.md"
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "62e90840ddf7c590",
-            "type": "tabs",
-            "dimension": 18.89838556505223,
-            "children": [
+              },
               {
                 "id": "af2ae82ec167d5fc",
                 "type": "leaf",
@@ -81,6 +57,23 @@
                     "file": "Finish Separation of Concerns Blog Post.md",
                     "mode": "source",
                     "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "25452112b94af4c3",
+            "type": "tabs",
+            "dimension": 43.9696106362773,
+            "children": [
+              {
+                "id": "2bfc103000b62948",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "TODO.md"
                   }
                 }
               }
@@ -154,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-01-26.md",
+                "file": "Mouses Maze Short Story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-01-26.md",
+                "file": "Mouses Maze Short Story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-01-26.md"
+                "file": "Mouses Maze Short Story.md"
               }
             }
           },
@@ -227,15 +220,15 @@
   },
   "active": "03fdd2d6d3ab7cac",
   "lastOpenFiles": [
+    "Journal/2023-01-27.md",
+    "Journal/2023-01-26.md",
     "Finish Separation of Concerns Blog Post.md",
     "TODO.md",
-    "Journal/2023-01-26.md",
     "Mouses Maze Short Story.md",
     "Journal/2023-01-25.md",
     "Journal/2023-01-24.md",
     "Templates/Daily Template.md",
     "Journal/2023-01-23.md",
-    "Finish Motivation Blog Post.md",
-    "Journal/2023-01-21.md"
+    "Finish Motivation Blog Post.md"
   ]
 }
