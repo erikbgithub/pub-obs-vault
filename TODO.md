@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## 📝 Todo
 
-- [ ] Build example [[Hardhat]] project
 - [ ] Run [[Ganache]] Instance
 - [ ] Build example [[Solidity]] App
 - [ ] Build example [[DAO]]
@@ -21,8 +20,10 @@ kanban-plugin: basic
 
 ## 🛠️  Working
 
+- [ ] Build example [[Hardhat]] project
 - [ ] [[Mouses Maze Short Story]]
 - [ ] [[Finish Separation of Concerns Blog Post]]
+- [ ] [[Create optimistic Sci-Fi world]]
 
 
 ## 🧽 Finishing

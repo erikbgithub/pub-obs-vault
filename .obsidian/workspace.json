@@ -10,7 +10,7 @@
           {
             "id": "d9f865ba206d6077",
             "type": "tabs",
-            "dimension": 56.0303893637227,
+            "dimension": 71.81984175289105,
             "children": [
               {
                 "id": "03fdd2d6d3ab7cac",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mouses Maze Short Story.md",
+                    "file": "Journal/2023-01-28.md",
                     "mode": "source",
                     "source": false
                   }
@@ -59,13 +59,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "2f92813628400e45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hardhat.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "25452112b94af4c3",
             "type": "tabs",
-            "dimension": 43.9696106362773,
+            "dimension": 28.18015824710895,
             "children": [
               {
                 "id": "2bfc103000b62948",
@@ -126,8 +139,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mouses Maze Short Story.md",
+                "file": "Hardhat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mouses Maze Short Story.md",
+                "file": "Hardhat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mouses Maze Short Story.md"
+                "file": "Hardhat.md"
               }
             }
           },
@@ -215,20 +227,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "03fdd2d6d3ab7cac",
+  "active": "2f92813628400e45",
   "lastOpenFiles": [
+    "Journal/2023-01-28.md",
+    "Character Nova.md",
+    "Create optimistic Sci-Fi world.md",
+    "TODO.md",
+    "Mouses Maze Short Story.md",
     "Journal/2023-01-27.md",
     "Journal/2023-01-26.md",
     "Finish Separation of Concerns Blog Post.md",
-    "TODO.md",
-    "Mouses Maze Short Story.md",
     "Journal/2023-01-25.md",
-    "Journal/2023-01-24.md",
-    "Templates/Daily Template.md",
-    "Journal/2023-01-23.md",
-    "Finish Motivation Blog Post.md"
+    "Journal/2023-01-24.md"
   ]
 }

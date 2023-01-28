@@ -47293,17 +47293,26 @@ var TagDataSource = class extends FrontMatterDataSource {
   }
 };
 function parseTags(cache) {
-  var _a, _b, _c;
+  var _a, _b, _c, _d;
   const allTags = /* @__PURE__ */ new Set();
   const markdownTags = (_b = (_a = cache.tags) == null ? void 0 : _a.map((tag) => tag.tag)) != null ? _b : [];
   markdownTags.forEach((tag) => allTags.add(tag));
-  const frontMatterTags = (_c = cache.frontmatter) == null ? void 0 : _c["tags"];
-  if (typeof frontMatterTags === "string") {
-    frontMatterTags.split(",").map((tag) => "#" + tag.trim()).forEach((tag) => allTags.add(tag));
-  } else if (Array.isArray(frontMatterTags)) {
-    frontMatterTags.map((tag) => "#" + tag.toString()).forEach((tag) => allTags.add(tag));
-  }
+  parseFrontMatterTags((_c = cache.frontmatter) == null ? void 0 : _c["tags"]).forEach(
+    (tag) => allTags.add(tag)
+  );
+  parseFrontMatterTags((_d = cache.frontmatter) == null ? void 0 : _d["tag"]).forEach(
+    (tag) => allTags.add(tag)
+  );
   return allTags;
+}
+function parseFrontMatterTags(property) {
+  const res = [];
+  if (typeof property === "string") {
+    property.split(",").map((tag) => "#" + tag.trim()).forEach((tag) => res.push(tag));
+  } else if (Array.isArray(property)) {
+    property.map((tag) => "#" + tag.toString()).forEach((tag) => res.push(tag));
+  }
+  return res;
 }
 
 // src/app/DataFrameProvider.svelte
@@ -61498,20 +61507,28 @@ function instance96($$self, $$props, $$invalidate) {
         ref.focus();
         break;
       case "ArrowLeft":
-        dispatch2("navigate", [colindex - 1, rowindex]);
-        event.preventDefault();
+        if (!edit) {
+          dispatch2("navigate", [colindex - 1, rowindex]);
+          event.preventDefault();
+        }
         break;
       case "ArrowRight":
-        dispatch2("navigate", [colindex + 1, rowindex]);
-        event.preventDefault();
+        if (!edit) {
+          dispatch2("navigate", [colindex + 1, rowindex]);
+          event.preventDefault();
+        }
         break;
       case "ArrowUp":
-        dispatch2("navigate", [colindex, rowindex - 1]);
-        event.preventDefault();
+        if (!edit) {
+          dispatch2("navigate", [colindex, rowindex - 1]);
+          event.preventDefault();
+        }
         break;
       case "ArrowDown":
-        dispatch2("navigate", [colindex, rowindex + 1]);
-        event.preventDefault();
+        if (!edit) {
+          dispatch2("navigate", [colindex, rowindex + 1]);
+          event.preventDefault();
+        }
         break;
       case "Tab":
         if (event.shiftKey) {
