@@ -66,7 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hardhat.md",
+                    "file": "Journal/2023-01-29.md",
                     "mode": "source",
                     "source": false
                   }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardhat.md",
+                "file": "Journal/2023-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardhat.md",
+                "file": "Journal/2023-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardhat.md"
+                "file": "Journal/2023-01-29.md"
               }
             }
           },
@@ -234,15 +234,15 @@
   },
   "active": "2f92813628400e45",
   "lastOpenFiles": [
-    "Journal/2023-01-28.md",
     "Character Nova.md",
+    "Howto Create a Character.md",
+    "Character Meat through Memories Identities and Secrets.md",
+    "ARCS method.md",
     "Create optimistic Sci-Fi world.md",
+    "Journal/2023-01-29.md",
+    "Hardhat.md",
+    "Journal/2023-01-28.md",
     "TODO.md",
-    "Mouses Maze Short Story.md",
-    "Journal/2023-01-27.md",
-    "Journal/2023-01-26.md",
-    "Finish Separation of Concerns Blog Post.md",
-    "Journal/2023-01-25.md",
-    "Journal/2023-01-24.md"
+    "Mouses Maze Short Story.md"
   ]
 }

@@ -40,3 +40,22 @@ Additional from me not in the chat:
 She felt reborn after gaining her confidence and that she had made a major progress in her life. Therefore, she decided to get a colorful lotus tattoo.
 
 
+---
+
+[[Howto Create a Character]]
+
+Once Nova fell in love with a fellow band member Treen. Everyone could see it, but everyone was also surprised why she didn't act on her feelings at all. Today is the last day of Treen in the band. What will Nova do?
+
+Options:
+ 1. Confess her love as if it just came up as a new idea. - Nova would be ashamed to act like that about something so important like love.
+ 2. Acting like it would be nothing. - She might do that if the woman didn't touch her heart that much. But with Treen that's not an option.
+ 3. Confronting Treen why she never spoke about her feelings for Nova. - In other cases Nova might look for an opportunity to blame her faults externally. But in love this would be too hurtful to the relationship.
+ 4. Tell her about her feelings and how her trans identity might make the life of Treen harder as well. - Avoiding the actual topic might be something she would choose to do out of fear.
+ 5. Tell her about how her previous two love interests died while working with her for her cause, making her believe that her love is what killed them. - That's her actual reason, but she didn't admit that fear to herself yet. She might not say it .
+ 6. Not going to the party at all, explaining to herself why she would be alright without Treen. - Not possible here.
+ 7. Bringing another woman to the party and constantly flirting with her, hoping to make Treen jealous. - She did that before and the end result was too painful for everyone involved.
+ 8. Asking other band members for help. - She would never do that, as this would be against her ideas of independence and strength.
+ 9. Starting a fight with Treen why loyalty to the band is important and how it isn't just a hobby for her. - Another way to avoid hte actual topic. she might do that.
+ 10. Write her an anonymous love letter and see how she reacts. - Too romantic for Nova.
+
+End result might be something between 4 and 9. Maybe starting with 9 but already failing and falling back to 4, revealing that there is more to her claim than she admits.
