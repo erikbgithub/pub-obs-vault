@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] [[Mouses Maze Short Story]]
 - [ ] [[Finish Separation of Concerns Blog Post]]
 - [ ] [[Create optimistic Sci-Fi world]]
+- [ ] [[Can I do a quick Godot RPG demo or not]]
 
 
 ## 🧽 Finishing

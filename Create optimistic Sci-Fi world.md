@@ -9,4 +9,5 @@ So, I used Midjourney to create this picture:
 
 And then I use ChatGPT to create backgrounds. From left to right:
  - [[Character Nova]]
- - 
+ - [[Character Trinity]]
+ -  

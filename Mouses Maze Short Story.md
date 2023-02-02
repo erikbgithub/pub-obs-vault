@@ -24,3 +24,21 @@ Until one day, they hear about the government doing huge Maze tournaments and th
 ## Scene 3: Maze loop
  - Mouse follows one wall, while building a map of paths he has walked; a strategy that always leads to the end of a solvable maze...
  - besides when the wall is inside of a loop, then you reach back to your starting point without new options
+ - get a hint at boxes being dropped
+## Scene 4: Maze people
+ - Meet more people
+ - recognise somehow (TODO) that you see some again
+ - more boxes with loot
+## Scene 5: The Maze moves
+ - realise that the Maze is not a fair setup, but one that has moving walls, very likely under control of the game masters
+ - realise that this is why some people seem to be stuck here longer and will be met again
+## Scene 6: Losing a leg
+ - One of the team mates loses a leg while everybody tries to haste past a moving wall; currently the only strategy to deal with the walls.
+ - Losing a leg means that outrunning the moving walls is not possible
+ - Somehow (TODO) this should also contain a hint, that the boxes are strong enough to withstand moving walls.
+## Scene 7: Losing part of the team
+ - When losing part of the team due to a moving wall, Mouse gets frustrated and starts to make a new plan: Sokoban to counter moving walls and thereby restarting pro-active exploration and mapping.
+ - TODO: sometimes Sokoban succeeds, or it only is able to hold it for a limited time; challenge continues to exist, even though a useful strategy has been found
+ - team reunites by coincidence; makes plan where the exit is and to go for it
+## Scene 8: Exiting the Maze
+ - TODO
