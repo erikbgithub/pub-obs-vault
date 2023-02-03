@@ -66,7 +66,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journal/2023-02-02.md",
+                    "file": "Journal/2023-02-03.md",
                     "mode": "source",
                     "source": false
                   }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-02-02.md",
+                "file": "Journal/2023-02-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-02-02.md",
+                "file": "Journal/2023-02-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-02-02.md"
+                "file": "Journal/2023-02-03.md"
               }
             }
           },
@@ -234,15 +234,15 @@
   },
   "active": "f9368fda340c48ad",
   "lastOpenFiles": [
-    "Mouses Maze Short Story.md",
-    "Journal/2023-02-02.md",
-    "Journal/2023-02-01.md",
     "TODO.md",
-    "Templates/Daily Template.md",
-    "Journal/2023-01-31.md",
+    "Journal/2023-02-03.md",
     "Create optimistic Sci-Fi world.md",
-    "Character Trinity.md",
     "Character Nova.md",
-    "Journal/2023-01-24.md"
+    "Open source RPG games.md",
+    "Journal/2023-02-02.md",
+    "Mouses Maze Short Story.md",
+    "Journal/2023-02-01.md",
+    "Templates/Daily Template.md",
+    "Journal/2023-01-31.md"
   ]
 }

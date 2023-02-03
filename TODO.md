@@ -20,6 +20,8 @@ kanban-plugin: basic
 
 ## 🛠️  Working
 
+^72a659
+
 - [ ] Build example [[Hardhat]] project
 - [ ] [[Mouses Maze Short Story]]
 - [ ] [[Finish Separation of Concerns Blog Post]]
