@@ -10,51 +10,15 @@
           {
             "id": "d9f865ba206d6077",
             "type": "tabs",
-            "dimension": 54.131054131054135,
+            "dimension": 70.24029574861368,
             "children": [
-              {
-                "id": "03fdd2d6d3ab7cac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Journal/2023-01-28.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6785e875e434ad16",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Finish Motivation Blog Post.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1a83d2054e84149f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Create optimistic Sci-Fi world.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "2f92813628400e45",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journal/2023-02-02.md",
+                    "file": "Journal/2023-02-04.md",
                     "mode": "source",
                     "source": false
                   }
@@ -66,19 +30,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Journal/2023-02-03.md",
+                    "file": "Sokoban game.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "25452112b94af4c3",
             "type": "tabs",
-            "dimension": 45.86894586894587,
+            "dimension": 29.759704251386328,
             "children": [
               {
                 "id": "2bfc103000b62948",
@@ -122,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo/blogging",
+                "query": "sokoban",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-02-03.md",
+                "file": "Journal/2023-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-02-03.md",
+                "file": "Journal/2023-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-02-03.md"
+                "file": "Journal/2023-02-04.md"
               }
             }
           },
@@ -208,6 +171,14 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec5d992e6d910dd7",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
@@ -232,17 +203,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f9368fda340c48ad",
+  "active": "2f92813628400e45",
   "lastOpenFiles": [
+    "Use Obsidian as RPG manager.md",
     "TODO.md",
+    "Journal/2023-02-04.md",
+    "Journal/2023-02-02.md",
+    "Sokoban game.md",
     "Journal/2023-02-03.md",
     "Create optimistic Sci-Fi world.md",
     "Character Nova.md",
     "Open source RPG games.md",
-    "Journal/2023-02-02.md",
-    "Mouses Maze Short Story.md",
-    "Journal/2023-02-01.md",
-    "Templates/Daily Template.md",
-    "Journal/2023-01-31.md"
+    "Mouses Maze Short Story.md"
   ]
 }

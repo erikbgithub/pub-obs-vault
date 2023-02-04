@@ -1,0 +1,2 @@
+Watching [this overview](https://www.youtube.com/watch?v=003Jvume-cA) how Nicole is doing it.
+Using [the dice plugin](https://github.com/valentine195/obsidian-dice-roller#lookup-tables) for randomised answers.

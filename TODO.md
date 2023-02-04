@@ -16,11 +16,10 @@ kanban-plugin: basic
 - [ ] Explain how I use Obsidian
 - [ ] [[Explain how I plan content creation with Obsidian Projects]]
 - [ ] Add [[Budgeting]] capabilities
+- [ ] [[Use Obsidian as RPG manager]]
 
 
 ## 🛠️  Working
-
-^72a659
 
 - [ ] Build example [[Hardhat]] project
 - [ ] [[Mouses Maze Short Story]]
