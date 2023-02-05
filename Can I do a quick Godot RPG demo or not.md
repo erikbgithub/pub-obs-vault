@@ -14,3 +14,8 @@ A few videos where pretty abstract without going much into any details. Also not
 A small interesting point of [one video](https://www.youtube.com/watch?v=L_zvpjyP1xA) was maybe that an RPG system is not a single system, but a set of more specific systems, e.g. a grid-based world system, a character system, a turn-action resolution system, and a combat system.
 
 This [grid-based movement tutorial](https://www.youtube.com/watch?v=9laHKHYNyXc) is the first that goes into some details. It's too detailed, but at least to the point. There needs to be a translation from the grid system to the pixel-on-screen system. Feedback to the user can come through animation (e.g. character shakes a little if it cannot move, showing it tried but failed).
+
+
+---
+
+Made [some progress today](https://github.com/Play2Learn-Org/novashustle/commit/e682320c4f7f874aeeec452eb524fe56ea629139).
