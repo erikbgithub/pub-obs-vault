@@ -6,3 +6,4 @@ As Hardhat comes with its own local blockchain runner, you don't need to spin up
 
 
 Built [example here](https://github.com/erikbgithub/hhtest) following [this guide](https://hardhat.org/hardhat-runner/docs/getting-started).
+And then this task is actually done. I can build more examples later.

@@ -10,4 +10,15 @@ So, I used Midjourney to create this picture:
 And then I use ChatGPT to create backgrounds. From left to right:
  - [[Character Nova]]
  - [[Character Trinity]]
- -  
+
+
+#todo 
+- [ ] create third character
+- [ ] create fourth character
+- [ ] write blog post about the world map?
+- [ ] finish drawing world map? and how to with the pen having no cap and therefore not being recognised.
+
+
+# Notes
+
+Someone posted [this overview of open RPG systems](https://wiki.rpg.net/index.php/Open_Game_Systems). I hope I can use one of them for my purposes. Overall the whole wiki-centered community might be interesting for me.

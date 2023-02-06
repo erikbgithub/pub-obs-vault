@@ -1,0 +1,1 @@
+Made [some progress yesterday](https://github.com/Play2Learn-Org/novashustle/commit/e682320c4f7f874aeeec452eb524fe56ea629139), and moved it to its own card now. It makes more sense to have this task separated from [[Can I do a quick Godot RPG demo or not]].

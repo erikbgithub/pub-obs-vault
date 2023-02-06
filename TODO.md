@@ -21,20 +21,21 @@ kanban-plugin: basic
 
 ## 🛠️  Working
 
-- [ ] Build example [[Hardhat]] project
 - [ ] [[Mouses Maze Short Story]]
 - [ ] [[Finish Separation of Concerns Blog Post]]
 - [ ] [[Create optimistic Sci-Fi world]]
-- [ ] [[Can I do a quick Godot RPG demo or not]]
 
 
 ## 🧽 Finishing
 
+- [ ] [[Sokoban Godot demo]]
 
 
 ## ✅ Done
 
 **Complete**
+- [x] Build example [[Hardhat]] project
+- [x] [[Can I do a quick Godot RPG demo or not]]
 - [x] Add [[Journaling]]
 - [x] ToRead: Suse Zero Trust Email
 - [x] [[Finish Motivation Blog Post]]

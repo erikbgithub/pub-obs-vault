@@ -18,4 +18,6 @@ This [grid-based movement tutorial](https://www.youtube.com/watch?v=9laHKHYNyXc)
 
 ---
 
-Made [some progress today](https://github.com/Play2Learn-Org/novashustle/commit/e682320c4f7f874aeeec452eb524fe56ea629139).
+I guess the question of the task is also answered. I can. There are nice tutorials to follow. Although even a small game takes longer than expected, because the design philosophy of game dev tools needs to be learned until one can get into the flow of simply using it.
+
+Follow-up Task:
