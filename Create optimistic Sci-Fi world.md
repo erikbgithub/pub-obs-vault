@@ -22,3 +22,13 @@ And then I use ChatGPT to create backgrounds. From left to right:
 # Notes
 
 Someone posted [this overview of open RPG systems](https://wiki.rpg.net/index.php/Open_Game_Systems). I hope I can use one of them for my purposes. Overall the whole wiki-centered community might be interesting for me.
+
+
+# Role Playing Systems
+
+I could write my own, but why not use the time for more specific topics and use something open and more general, like:
+ - [BIND RPG (GPL)](https://bindrpg.itch.io/)
+ - [Eclipse Phase (CC-BY-NC-SA)](https://eclipsephase.com/game/)
+ - [Shadows(CC)](https://mozai.com/writing/not_mine/shadows.html) - I more like the idea of this one, that your own Jungian Shadow is playing against you, rather than the whole system.
+ - [Executive Decision (CC-BY-NC-SA)](http://www.gregstolze.com/execdecis.html) - political crisis simulator without dices
+ - [FATE (Fudge license and OGL)](https://www.faterpg.com/dl/FATE2fe.pdf) - DnD like simplified

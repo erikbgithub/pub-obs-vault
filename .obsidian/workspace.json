@@ -42,7 +42,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hardhat.md",
+                    "file": "Journal/2023-02-07.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c382b0e671bdb181",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Journal/2023-02-07.md",
                     "mode": "source",
                     "source": false
                   }
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Create optimistic Sci-Fi world.md",
+                "file": "Journal/2023-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Create optimistic Sci-Fi world.md",
+                "file": "Journal/2023-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Create optimistic Sci-Fi world.md"
+                "file": "Journal/2023-02-07.md"
               }
             }
           },
@@ -227,17 +239,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e246c7126cb30c68",
+  "active": "c382b0e671bdb181",
   "lastOpenFiles": [
+    "Journal/2023-02-07.md",
+    "Sokoban Godot demo.md",
+    "Hardhat.md",
+    "Create optimistic Sci-Fi world.md",
     "Journal/2023-02-06.md",
     "Mouses Maze Short Story.md",
-    "Create optimistic Sci-Fi world.md",
     "TODO.md",
-    "Hardhat.md",
     "Finish Separation of Concerns Blog Post.md",
-    "Sokoban Godot demo.md",
     "Can I do a quick Godot RPG demo or not.md",
-    "Journal/2023-02-05.md",
-    "Journal/2023-02-02.md"
+    "Journal/2023-02-05.md"
   ]
 }
