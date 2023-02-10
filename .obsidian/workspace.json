@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-02-08.md",
+                "file": "Journal/2023-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-02-08.md",
+                "file": "Journal/2023-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-02-08.md",
+                "file": "Journal/2023-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-02-08.md"
+                "file": "Journal/2023-02-09.md"
               }
             }
           },
@@ -216,9 +216,10 @@
   },
   "active": "2bfc103000b62948",
   "lastOpenFiles": [
+    "Journal/2023-02-08.md",
+    "Journal/2023-02-09.md",
     "Refugee Sport Volunteering.md",
     "TODO.md",
-    "Journal/2023-02-08.md",
     "Journal/2023-02-07.md",
     "Sokoban Godot demo.md",
     "Hardhat.md",
