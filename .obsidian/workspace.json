@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-02-18.md",
+                "file": "Journal/2023-02-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-02-18.md",
+                "file": "Journal/2023-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-02-18.md",
+                "file": "Journal/2023-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-02-18.md"
+                "file": "Journal/2023-02-19.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   },
   "active": "2bfc103000b62948",
   "lastOpenFiles": [
+    "Journal/2023-02-18.md",
+    "Journal/2023-02-19.md",
     "Journal/2023-02-17.md",
     "Journal/2023-02-16.md",
     "Journal/2023-02-15.md",
@@ -223,8 +225,6 @@
     "Journal/2023-02-13.md",
     "Journal/2023-02-12.md",
     "Journal/2023-02-11.md",
-    "Journal/2023-02-10.md",
-    "Journal/2023-02-09.md",
-    "Journal/2023-02-08.md"
+    "Journal/2023-02-10.md"
   ]
 }
