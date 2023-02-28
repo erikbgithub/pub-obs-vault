@@ -32,3 +32,12 @@ I could write my own, but why not use the time for more specific topics and use 
  - [Shadows(CC)](https://mozai.com/writing/not_mine/shadows.html) - I more like the idea of this one, that your own Jungian Shadow is playing against you, rather than the whole system.
  - [Executive Decision (CC-BY-NC-SA)](http://www.gregstolze.com/execdecis.html) - political crisis simulator without dices
  - [FATE (Fudge license and OGL)](https://www.faterpg.com/dl/FATE2fe.pdf) - DnD like simplified
+
+# Map Generation on Github
+
+ - https://github.com/topics/map-generator
+ - https://github.com/topics/terrain-generation
+ - https://github.com/topics/procedural-terrain
+
+# Social Creators
+ - https://slyflourish.com/lightning_rods.html
