@@ -61,9 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-02-28.md",
+                "file": "Journal/2023-03-02.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f61b24b1424f914d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
               }
             }
           },
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-02-28.md",
+                "file": "Journal/2023-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-02-28.md",
+                "file": "Journal/2023-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-02-28.md"
+                "file": "Journal/2023-03-02.md"
               }
             }
           },
@@ -228,9 +238,12 @@
   },
   "active": "df7bac2d52eef804",
   "lastOpenFiles": [
+    "Journal/2023-03-02.md",
+    "PyBerlin 38.md",
+    "Journal/2023-03-01.md",
+    "Journal/2023-02-28.md",
     "Create optimistic Sci-Fi world.md",
     "Can I do a quick Godot RPG demo or not.md",
-    "Journal/2023-02-28.md",
     "erikbcoins_cyberpunk_team_five_people_looking_at_camera_jet_set_ddf77361-2d81-4624-8278-5b78728d65a2.png",
     "Open source RPG games.md",
     "Journal/2023-02-27.md",
