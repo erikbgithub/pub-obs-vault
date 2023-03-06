@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-05.md",
+                "file": "Journal/2023-03-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-03-05.md",
+                "file": "Journal/2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-03-05.md",
+                "file": "Journal/2023-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-03-05.md"
+                "file": "Journal/2023-03-06.md"
               }
             }
           },
@@ -238,8 +238,9 @@
   },
   "active": "df7bac2d52eef804",
   "lastOpenFiles": [
-    "Journal/2023-03-04.md",
     "Journal/2023-03-05.md",
+    "Journal/2023-03-06.md",
+    "Journal/2023-03-04.md",
     "Journal/2023-03-03.md",
     "Journal/2023-03-02.md",
     "PyBerlin 38.md",
