@@ -4,7 +4,6 @@ sports-warmup: false
 sports-jogging: false
 daily-language: false
 daily-mind: false
-daily-poker: false
 mood: ???
 ---
 
