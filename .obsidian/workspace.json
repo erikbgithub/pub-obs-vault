@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-16.md",
+                "file": "Journal/2023-03-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-03-16.md",
+                "file": "Journal/2023-03-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-03-16.md",
+                "file": "Journal/2023-03-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-03-16.md"
+                "file": "Journal/2023-03-17.md"
               }
             }
           },
@@ -239,6 +239,7 @@
   "active": "df7bac2d52eef804",
   "lastOpenFiles": [
     "Journal/2023-03-16.md",
+    "Journal/2023-03-17.md",
     "platypus.jpg",
     "Duck Testing.md",
     "Journal/2023-03-15.md",
