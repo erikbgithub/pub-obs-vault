@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-17.md",
+                "file": "Journal/2023-03-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-03-17.md",
+                "file": "Journal/2023-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-03-17.md",
+                "file": "Journal/2023-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-03-17.md"
+                "file": "Journal/2023-03-18.md"
               }
             }
           },
@@ -238,10 +238,16 @@
   },
   "active": "df7bac2d52eef804",
   "lastOpenFiles": [
-    "Journal/2023-03-16.md",
-    "Journal/2023-03-17.md",
-    "platypus.jpg",
     "Duck Testing.md",
+    "Pasted image 20230121101302.png",
+    "erikbcoins_cyberpunk_team_five_people_looking_at_camera_jet_set_ddf77361-2d81-4624-8278-5b78728d65a2.png",
+    "PullTogether.png",
+    "Pasted image 20230121101617.png",
+    "Pasted image 20230121101434.png",
+    "Journal/2023-03-18.md",
+    "Journal/2023-03-17.md",
+    "Journal/2023-03-16.md",
+    "platypus.jpg",
     "Journal/2023-03-15.md",
     "Journal/2023-03-14.md",
     "Journal/2023-03-13.md",
@@ -262,9 +268,6 @@
     "Journal/2023-02-28.md",
     "Create optimistic Sci-Fi world.md",
     "Can I do a quick Godot RPG demo or not.md",
-    "erikbcoins_cyberpunk_team_five_people_looking_at_camera_jet_set_ddf77361-2d81-4624-8278-5b78728d65a2.png",
-    "Open source RPG games.md",
-    "Journal/2023-02-27.md",
-    "Journal/2023-02-26.md"
+    "Open source RPG games.md"
   ]
 }
