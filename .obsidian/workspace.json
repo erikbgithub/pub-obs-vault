@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-18.md",
+                "file": "Journal/2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-03-18.md",
+                "file": "Journal/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-03-18.md",
+                "file": "Journal/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-03-18.md"
+                "file": "Journal/2023-03-20.md"
               }
             }
           },
@@ -238,13 +238,16 @@
   },
   "active": "df7bac2d52eef804",
   "lastOpenFiles": [
+    "Journal/2023-03-19.md",
+    "Journal/2023-03-20.md",
+    "Templates/Daily Template.md",
+    "Journal/2023-03-18.md",
     "Duck Testing.md",
     "Pasted image 20230121101302.png",
     "erikbcoins_cyberpunk_team_five_people_looking_at_camera_jet_set_ddf77361-2d81-4624-8278-5b78728d65a2.png",
     "PullTogether.png",
     "Pasted image 20230121101617.png",
     "Pasted image 20230121101434.png",
-    "Journal/2023-03-18.md",
     "Journal/2023-03-17.md",
     "Journal/2023-03-16.md",
     "platypus.jpg",
@@ -254,7 +257,6 @@
     "Journal/2023-03-12.md",
     "Journal/2023-03-11.md",
     "Journal/2023-03-10.md",
-    "Templates/Daily Template.md",
     "Journal/2023-03-09.md",
     "Journal/2023-03-08.md",
     "Journal/2023-03-07.md",
@@ -267,7 +269,6 @@
     "Journal/2023-03-01.md",
     "Journal/2023-02-28.md",
     "Create optimistic Sci-Fi world.md",
-    "Can I do a quick Godot RPG demo or not.md",
-    "Open source RPG games.md"
+    "Can I do a quick Godot RPG demo or not.md"
   ]
 }
