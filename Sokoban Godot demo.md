@@ -1,0 +1,5 @@
+Made [some progress yesterday](https://github.com/Play2Learn-Org/novashustle/commit/e682320c4f7f874aeeec452eb524fe56ea629139), and moved it to its own card now. It makes more sense to have this task separated from [[Can I do a quick Godot RPG demo or not]].
+
+---
+Got pretty confused when planning out the menu structure. Apparently, they are also scenes, just like the player, the weapons, the levels, etc. Scene is apparently the "object" in the game dev OOP system. And it seems like one menu can instance another, eg. a level, by creating an instance of it. I'm confused what happens to the "old" menu, when something new is instantiated. Does it garbage collected? Does it stay there? Can I choose which scene is currently in focus from the ones that are in memory?
+Currently watching more YT tuts in the hope of getting a better feel for what other people are doing.

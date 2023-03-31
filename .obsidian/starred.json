@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Hardhat",
+      "path": "Hardhat.md"
+    },
+    {
+      "type": "file",
+      "title": "TODO",
+      "path": "TODO.md"
+    }
+  ]
+}
