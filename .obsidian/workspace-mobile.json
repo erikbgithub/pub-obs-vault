@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-31.md",
+                "file": "Journal/2023-04-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Journal/2023-03-31.md",
+            "file": "Journal/2023-04-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Journal/2023-03-31.md",
+            "file": "Journal/2023-04-11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Journal/2023-03-31.md"
+            "file": "Journal/2023-04-11.md"
           }
         }
       },
@@ -150,10 +150,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5b4894702d356125",
+  "active": "fd4c282ffcbd5dda",
   "lastOpenFiles": [
-    "PyBerlin No38.md",
+    "Journal/2023-04-05.md",
+    "Journal/2023-04-11.md",
+    "Journal/2023-04-04.md",
+    "Journal/2023-04-03.md",
+    "Journal/2023-04-02.md",
+    "Journal/2023-04-01.md",
+    "unhealthy attachment.md",
     "Journal/2023-03-31.md",
+    "PyBerlin No38.md",
     "TODO.md",
     "Character Meat through Memories Identities and Secrets.md",
     "DAO.md",
@@ -174,14 +181,7 @@
     "Ethereum.md",
     "PullTogether.png",
     "PyBerlin 38.md",
-    "Explain how I plan content creation with Obsidian Projects.md",
-    "Finish Motivation Blog Post.md",
-    "Build Habit tracker.md",
     "Pasted image 20230121101617.png",
-    "Duck Testing.md",
-    "Albert Launcher.md",
-    "Journaling.md",
-    "Want and Need Method.md",
     "Templates",
     "anmeldeformular_vhsnk_1-2022_probe_19012022.pdf",
     "platypus.jpg",
