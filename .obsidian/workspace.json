@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-20.md",
+                "file": "Journal/2023-04-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2023-03-20.md",
+                "file": "Journal/2023-04-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2023-03-20.md",
+                "file": "Journal/2023-04-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2023-03-20.md"
+                "file": "Journal/2023-04-14.md"
               }
             }
           },
@@ -224,22 +224,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "df7bac2d52eef804",
   "lastOpenFiles": [
-    "Journal/2023-03-19.md",
+    "Build Habit tracker.md",
+    "Journal/2023-04-14.md",
     "Journal/2023-03-20.md",
+    "Journal/2023-03-19.md",
     "Templates/Daily Template.md",
     "Journal/2023-03-18.md",
     "Duck Testing.md",
@@ -267,8 +269,6 @@
     "Journal/2023-03-02.md",
     "PyBerlin 38.md",
     "Journal/2023-03-01.md",
-    "Journal/2023-02-28.md",
-    "Create optimistic Sci-Fi world.md",
-    "Can I do a quick Godot RPG demo or not.md"
+    "Journal/2023-02-28.md"
   ]
 }
